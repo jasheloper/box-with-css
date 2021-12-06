@@ -9,9 +9,9 @@ https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/A_cool_lookin
 <br /><br />
 
 
-### Video Link (me doing the project):
+### Blog Post (Explaining the Project):
 
-**JasheleTechTV** - Coming soon.
+**DevJashele.Tech** - Coming soon.
 <br /><br />
 
 
