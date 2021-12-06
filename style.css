@@ -7,13 +7,13 @@ html {
   p {
     width: 200px;
     height: 50px;
+    line-height: 2.5;
     text-align: center;
     /* 1rem = 10px 
       .8 = 8px
       1.8 = 18rem
     */
     font-size: 1.8rem;
-    line-height: 2.5;
     color: #ef0404;
     text-shadow: 1px 1px 2px rgb(19, 19, 19);
     border-radius: 8px;
