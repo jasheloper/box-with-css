@@ -11,7 +11,7 @@ https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/A_cool_lookin
 
 ### Blog Post (Explaining the Project):
 
-**DevJashele.Tech** - Coming soon.
+https://devjashele.tech/2021/12/07/mdns-css-box-coding-challenge/
 <br /><br />
 
 
